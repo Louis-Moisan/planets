@@ -5,3 +5,6 @@ This is a strong argument."
 
 "Terrible place for vampires, I would not recommend."
  -ED
+
+"Venus is a great tennis player"
+-MWB
