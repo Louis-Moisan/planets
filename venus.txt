@@ -1,1 +1,7 @@
-terrible place 
+<<<<<<< HEAD
+"Venus is the most important planet because it is called Venus.
+This is a strong argument."
+ -LM
+
+"Terrible place for vampires, I would not recommend."
+ -ED
